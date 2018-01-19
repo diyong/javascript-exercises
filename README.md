@@ -1,3 +1,10 @@
+[Jan 18, 2018] - I have previously downloaded a clone of these exercises a couple of weeks back. Unfortunately, I didn't realize at that point in my education that I could have simply "forked" the repository to my account. I have completed all of these exercises of my own accord and am simply uploading my answers now.
+
+-diyong
+
+
+
+
 These are a series of javascript exercises intended to be used alongside the curriculum at 'The Odin Project'  They start very simply, but get more involved as you progress through them.
 
 There will eventually be a suggested order of completion, but at this time since we are still in the process of creating more exercises the order is subject to change and has not yet been specified... In general however there are a couple which make a good "starting point" feel free to at least start with these:
